@@ -1,0 +1,4 @@
+Imię nauczyciela: Karol
+Nazwisko nauczyciela: Kowal
+Nauczany przedmiot: matematyka
+

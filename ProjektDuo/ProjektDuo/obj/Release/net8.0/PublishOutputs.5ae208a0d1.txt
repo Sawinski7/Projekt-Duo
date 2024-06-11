@@ -1,0 +1,7 @@
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\ProjektDuo.exe
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\ProjektDuo.dll
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\ProjektDuo.deps.json
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\ProjektDuo.runtimeconfig.json
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\ProjektDuo.pdb
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\Szkola.dll
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo\ProjektDuo\bin\Release\net8.0\app.publish\Szkola.pdb

@@ -1,0 +1,7 @@
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo.exe
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo.dll
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo.deps.json
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo.runtimeconfig.json
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\ProjektDuo.pdb
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\Szkola.dll
+C:\Users\Łukasz Sawiński\Desktop\PROGRAMOWANIE OBIEKTOWE C#\Szkola.pdb

@@ -1,0 +1,5 @@
+Imię członka dyrekcji: Adam
+Nazwisko członka dyrekcji: Kowalski
+Nauczany przedmiot: chemia
+Obejmowane stanowisko: dyrektor
+
